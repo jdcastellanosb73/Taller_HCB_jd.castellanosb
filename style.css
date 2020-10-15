@@ -1,0 +1,63 @@
+/* Add your styles here */
+body{
+  background:url("https://www.xtrafondos.com/wallpapers/montanas-rio-azul-castillo-3296.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size:cover;
+  font-size:larger;
+}
+img{
+  width: 400px;
+  height:400px;
+  display: block;
+  margin-left:auto;
+  margin-right: auto ;
+}
+.titulo{
+  font-family: Algerian;
+  text-align: center;
+}
+h3{
+  font-family: 'Times New Roman', Times, serif;
+  color: #EFF8FB;
+  text-align: center;
+}
+p{
+  text-align: center;
+  color: #D8D8D8;
+  font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+  text-align: center;
+  color: #6E6E6E;
+  font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+li{
+  color: #848484; 
+  font-family: inherit;
+}
+dd{
+  color:lavender;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+}
+a{
+  color: red;
+}
+.inicio{
+  text-align: center;
+}
+.row2{
+  padding-left:40px;
+  margin: 40px;
+  width: 1050px;
+  display:inline-flex;
+}
+pre{
+  color: #A4A4A4;
+}
+.col-sm-06{
+  margin: auto;
+  padding-left: 55px;
+}
+
